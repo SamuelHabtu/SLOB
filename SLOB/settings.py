@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'SLOB',
     'utilities',
-    'yahoo_api'
+    'yahoo_api',
+    'optimization_methods',
 ]
 
 MIDDLEWARE = [

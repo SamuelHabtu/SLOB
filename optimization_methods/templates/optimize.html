@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Optimization Results</title>
+</head>
+<body>
+    <h1>Optimized Team</h1>
+    <ul>
+        {% for player in best_team %}
+            <li>{{ player.name }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
