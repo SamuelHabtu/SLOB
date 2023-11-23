@@ -4,13 +4,11 @@ Welcome to SLOB, your ultimate companion for fantasy basketball strategy and lin
 
 ## Key Features
 
-1. **Genetic Algorithm Optimization:** SLOB employs advanced genetic algorithms to generate optimal player lineups based on your specified scoring categories.
+1. **Genetic Algorithm Optimization:** SLOB employs advanced algorithms to generate optimal lineups based on your specified scoring categories.
 
-2. **Flexible Scoring:** Customize your scoring strategy by choosing from all 12 categories or focusing on specific ones. SLOB adapts to your preferences, helping you find the winning combination.
+2. **Flexible Scoring:** Customize your strategy by choosing which categories to focus on or maybe a more well rounded approach.
 
 3. **Projection Analysis:** Gain insights into player projections, allowing you to make informed decisions about your lineup composition.
-
-4. **User-Friendly Interface:** SLOB is designed with simplicity in mind. The intuitive interface ensures a seamless experience, making it easy for users of all levels to navigate and utilize its features.
 
 ## Getting Started
 
